@@ -1,20 +1,20 @@
 ## iOS Design Patterns
 
 ### MVC
-[Sample Implementation](https://github.com/HanaisMe/iOS-Development/tree/master/Design%20Patterns/MVC)
+[Sample Implementation](https://github.com/HanaisMe/Swift-iOS-Design-Patterns/tree/master/Design%20Patterns/MVC)
 
 ### MVP (Delegation Pattern)
-[Sample Implementation](https://github.com/HanaisMe/iOS-Development/tree/master/Design%20Patterns/MVP)
+[Sample Implementation](https://github.com/HanaisMe/Swift-iOS-Design-Patterns/tree/master/Design%20Patterns/MVP)
 
 ### MVVM
-1. Closure: [Sample Implementation](https://github.com/HanaisMe/iOS-Development/tree/master/Design%20Patterns/MVVM)
+1. Closure: [Sample Implementation](https://github.com/HanaisMe/Swift-iOS-Design-Patterns/tree/master/Design%20Patterns/MVVM)
 
 ### VIPER
 Router aka. Wireframe
-[Sample Implementation](https://github.com/HanaisMe/iOS-Development/tree/master/Design%20Patterns/VIPER)
+[Sample Implementation](https://github.com/HanaisMe/Swift-iOS-Design-Patterns/tree/master/Design%20Patterns/VIPER)
 
 ### Coordinator
-1. MVC-C: [Sample Implementation](https://github.com/HanaisMe/iOS-Development/tree/master/Design%20Patterns/MVC-Coordinator)
+1. MVC-C: [Sample Implementation](https://github.com/HanaisMe/Swift-iOS-Design-Patterns/tree/master/Design%20Patterns/MVC-Coordinator)
 2. MVVM-C
 
 ### References
