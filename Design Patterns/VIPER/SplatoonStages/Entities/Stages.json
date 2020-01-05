@@ -1,0 +1,137 @@
+{
+    "result": [
+        
+        {
+            "id": 1,
+            "name": "フジツボスポーツクラブ",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/83acec875a5bb19418d7b87d5df4ba1e38ceac66.png",
+            "statink": "fujitsubo"
+        },
+        {
+            "id": 2,
+            "name": "ガンガゼ野外音楽堂",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/187987856bf575c4155d021cb511034931d06d24.png",
+            "statink": "gangaze"
+        },
+        {
+            "id": 3,
+            "name": "チョウザメ造船",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/bc794e337900afd763f8a88359f83df5679ddf12.png",
+            "statink": "chozame"
+        },
+        {
+            "id": 4,
+            "name": "海女美術大学",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/5c030a505ee57c889d3e5268a4b10c1f1f37880a.png",
+            "statink": "ama"
+        },
+        {
+            "id": 5,
+            "name": "コンブトラック",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/fc23fedca2dfbbd8707a14606d719a4004403d13.png",
+            "statink": "kombu"
+        },
+        {
+            "id": 6,
+            "name": "マンタマリア号",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/070d7ee287fdf3c5df02411950c2a1ce5b238746.png",
+            "statink": "manta"
+        },
+        {
+            "id": 7,
+            "name": "ホッケふ頭",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/0907fc7dc325836a94d385919fe01dc13848612a.png",
+            "statink": "hokke"
+        },
+        {
+            "id": 8,
+            "name": "タチウオパーキング",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/96fd8c0492331a30e60a217c94fd1d4c73a966cc.png",
+            "statink": "tachiuo"
+        },
+        {
+            "id": 9,
+            "name": "エンガワ河川敷",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/8c95053b3043e163cbfaaf1ec1e5f3eb770e5e07.png",
+            "statink": "engawa"
+        },
+        {
+            "id": 10,
+            "name": "モズク農園",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/a12e4bf9f871677a5f3735d421317fbbf09e1a78.png",
+            "statink": "mozuku"
+        },
+        {
+            "id": 11,
+            "name": "Ｂバスパーク",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/758338859615898a59e93b84f7e1ca670f75e865.png",
+            "statink": "bbass"
+        },
+        {
+            "id": 12,
+            "name": "デボン海洋博物館",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/23259c80272f45cea2d5c9e60bc0cedb6ce29e46.png",
+            "statink": "devon"
+        },
+        {
+            "id": 13,
+            "name": "ザトウマーケット",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/d9f0f6c330aaa3b975e572637b00c4c0b6b89f7d.png",
+            "statink": "zatou"
+        },
+        {
+            "id": 14,
+            "name": "ハコフグ倉庫",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/65c99da154295109d6fe067005f194f681762f8c.png",
+            "statink": "hakofugu"
+        },
+        {
+            "id": 15,
+            "name": "アロワナモール",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/dcf332bdcc80f566f3ae59c1c3a29bc6312d0ba8.png",
+            "statink": "arowana"
+        },
+        {
+            "id": 16,
+            "name": "モンガラキャンプ場",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/e4c4800be9fff23112334b193abb0fdf36e05933.png",
+            "statink": "mongara"
+        },
+        {
+            "id": 17,
+            "name": "ショッツル鉱山",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/828e49a8414a4bbc0a5da3e61454ab148a9f4063.png",
+            "statink": "shottsuru"
+        },
+        {
+            "id": 18,
+            "name": "アジフライスタジアム",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/8cab733d543efc9dd561bfcc9edac52594e62522.png",
+            "statink": "ajifry"
+        },
+        {
+            "id": 19,
+            "name": "ホテルニューオートロ",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/98a7d7a4009fae9fb7479554535425a5a604e88e.png",
+            "statink": "otoro"
+        },
+        {
+            "id": 20,
+            "name": "スメーシーワールド",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/555c356487ac3edb0088c416e8045576c6b37fcc.png",
+            "statink": "sumeshi"
+        },
+        {
+            "id": 21,
+            "name": "アンチョビットゲームズ",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/1430e5ac7ae9396a126078eeab824a186b490b5a.png",
+            "statink": "anchovy"
+        },
+        {
+            "id": 22,
+            "name": "ムツゴ楼",
+            "image_url": "https://app.splatoon2.nintendo.net/images/stage/132327c819abf2bd44d0adc0f4a21aad9cc84bb2.png",
+            "statink": "mutsugoro"
+        }
+    ]
+}
