@@ -30,7 +30,7 @@ class StageDetailPresenter: NSObject, ViperPresenter {
     var downloadedData: Data?
     
     func fetchData() {
-        self.interactor?.fetchData(from: selectedStage.image_url, success: { [weak self] data in
+        self.interactor?.fetchData(from: selectedStage.imageURL, success: { [weak self] data in
             self?.downloadedData = data
             self?.view?.reloadTableView()
         }, failure: { errorMessage in

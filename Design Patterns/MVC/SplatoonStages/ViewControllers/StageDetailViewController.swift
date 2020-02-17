@@ -50,7 +50,7 @@ extension StageDetailViewController: UITableViewDelegate, UITableViewDataSource 
         case 3:
             cell.headerLabel.text = nil
             cell.detailLabel.text = nil
-            cell.detailImageView.fromImageURL(selectedStage.image_url)
+            cell.detailImageView.fromImageURL(selectedStage.imageURL)
         default:
             break
         }

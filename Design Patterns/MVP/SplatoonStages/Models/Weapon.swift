@@ -24,7 +24,7 @@ struct Description: Codable {
     let key : String
     let name: LocalizedStrings
     
-    enum Description: String, CodingKey {
+    enum CodingKeys: String, CodingKey {
         case key  = "key"
         case name = "name"
     }
@@ -36,7 +36,7 @@ struct Weapon: Codable {
     let sub    : Description
     let special: Description
     
-    enum Weapon: String, CodingKey {
+    enum CodingKeys: String, CodingKey {
         case key     = "key"
         case name    = "name"
         case sub     = "sub"

@@ -38,7 +38,7 @@ class StageDetailPresenter {
         guard let stage = self.selectedStage else { return }
         self.state = .loading
         self.downloadedData = nil
-        URLSession.shared.dataTask(with: stage.image_url) { data, response, error in
+        URLSession.shared.dataTask(with: stage.imageURL) { data, response, error in
             if let theError = error {
                 self.state = .error(message: theError.localizedDescription)
                 return

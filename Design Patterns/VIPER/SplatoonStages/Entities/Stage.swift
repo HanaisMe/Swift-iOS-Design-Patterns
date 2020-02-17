@@ -18,13 +18,13 @@ enum StageInfo: String, CaseIterable {
 struct Stage: Codable {
     let id       : Int
     let name     : String
-    let image_url: URL
+    let imageURL : URL
     let statink  : String
     
-    enum Stage: String, CodingKey {
+    enum CodingKeys: String, CodingKey {
         case id        = "id"
         case name      = "name"
-        case image_url = "image_url"
+        case imageURL  = "image_url"
         case statink   = "statink"
     }
 }
@@ -32,7 +32,7 @@ struct Stage: Codable {
 struct Stages: Codable {
     let result: [Stage]
     
-    enum Stages: String, CodingKey {
+    enum CodingKeys: String, CodingKey {
         case result = "result"
     }
 }
