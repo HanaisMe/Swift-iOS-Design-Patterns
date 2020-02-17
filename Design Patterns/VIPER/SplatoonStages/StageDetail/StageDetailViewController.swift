@@ -48,9 +48,10 @@ extension StageDetailViewController: UITableViewDelegate, UITableViewDataSource 
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: Constants.stageDetailCellId,
                                                  for: indexPath) as! StageDetailTableViewCell
-        guard let selectedStage = presenter?.getSelectedStage(),
-            let downloadedData = presenter?.getDownloadedData(),
-            let downloadedImage = UIImage(data: downloadedData) else { return cell }
+        guard let selectedStage = presenter?.getSelectedStage() else {
+            // never going to happen
+            return cell
+        }
         switch indexPath.row {
         case 0:
             cell.headerLabel.text = StageInfo.id.rawValue
@@ -67,7 +68,10 @@ extension StageDetailViewController: UITableViewDelegate, UITableViewDataSource 
         case 3:
             cell.headerLabel.text = nil
             cell.detailLabel.text = nil
-            cell.detailImageView.image = downloadedImage
+            if let downloadedData = presenter?.getDownloadedData(),
+                let downloadedImage = UIImage(data: downloadedData) {
+                cell.detailImageView.image = downloadedImage
+            }
         default:
             break
         }
